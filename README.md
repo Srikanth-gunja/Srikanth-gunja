@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 💬 Ask me about Java, Python, JavaScript, React, SQL, or anything related to data science and web development.  
+- 📫 How to reach me: [Connect with me on LinkedIn](https://www.linkedin.com/in/gunja-srikanth-208273301).  
+- 😄 Pronouns: He/Him  
+

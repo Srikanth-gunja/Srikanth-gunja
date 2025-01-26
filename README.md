@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on enhancing my data science skills.  
+- 🌱 I’m currently learning advanced concepts in data science, machine learning, and AI.  
+- 👯 I’m looking to collaborate on data science projects, web development, and any innovative ideas involving Python, JavaScript, or React.  
 - 💬 Ask me about Java, Python, JavaScript, React, SQL, or anything related to data science and web development.  
 - 📫 How to reach me: [Connect with me on LinkedIn](https://www.linkedin.com/in/gunja-srikanth-208273301).  
 - 😄 Pronouns: He/Him  

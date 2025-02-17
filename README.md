@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there This is Srikanth 👋 
 
 <!--
 **Srikanth-gunja/Srikanth-gunja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning advanced concepts in data science, machine learning, and AI.  
 - 👯 I’m looking to collaborate on data science projects, web development, and any innovative ideas involving Python, JavaScript, or React.  
 - 💬 Ask me about Java, Python, JavaScript, React, SQL, or anything related to data science and web development.  
-- 📫 How to reach me: [Connect with me on LinkedIn](https://www.linkedin.com/in/gunja-srikanth-208273301).  
 - 😄 Pronouns: He/Him  
 
 
